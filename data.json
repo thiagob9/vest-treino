@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Física",
+    "topics": [
+      {"key": "Equação de Clayperon", 
+       "value": "PV = nRT",
+       "type": "equation"
+      },
+      {"key": "Força elétrostática", 
+       "value": "F = \\frac{kqQ}{d^2}",
+       "type": "equation"
+      }
+    ]
+  },
+  {
+    "name": "Matemática",
+    "topics": [
+      {
+        "key": "Número de Diagonais de um Poligono",
+        "value": "d = \\frac{n(n-3)}{2}",
+        "type": "equation"
+      }
+    ]
+  },
+  {
+    "name": "Biologia",
+    "topics": [
+      {"key": "Protista",
+       "value": "Eucariontes, Unicelulares, Heterótrofos, sem parede celular e vida livre ou parasitas",
+       "type": "text", 
+       "caption": "Características"
+      },
+      {"key": "Rhizopoda",
+       "value": "Movimentam-se por meio de pseudópodes.\n Ex: Ameba",
+       "type": "text", 
+       "caption": "Características e Exemplo"
+      },
+      {"key": "Mastigophora",
+       "value": "Movimentam-se por meio de flagelo.\n Ex: Tripanosoma cruzi",
+       "type": "text", 
+       "caption": "Características e Exemplo"
+      },
+      {"key": "Ciliosphora",
+       "value": "Movimentam-se por meio de cilíos.\n Ex: Corrigir",
+       "type": "text", 
+       "caption": "Características e Exemplo"
+      },
+      {"key": "Sporoza",
+       "value": "Locomoção ausente, logo são todos parasitas.\n Ex: Plasmodium spp.",
+       "type": "text", 
+       "caption": "Características e Exemplo"
+      }
+    ]
+  }
+]

@@ -51,5 +51,40 @@
        "caption": "Características e Exemplo"
       }
     ]
+  },
+  {
+    "name": "Química",
+    "topics": [
+      {
+        "key": "Definição de Isóbaro",
+        "value": "Diferentes atómos com o mesmo número de massa",
+        "type": "text"
+      },
+      {
+        "key": "Definição de Isótono",
+        "value": "Diferentes atómos com o mesmo número de nêutrons",
+        "type": "text"
+      },
+       {
+        "key": "Definição de Isótopo",
+        "value": "Mesmo atómo com número diferente de nêutrons",
+        "type": "text" 
+      },
+      {
+        "key": "Transformação Isobárica",
+        "value": "\\frac{V_1}{T_1} = \\frac{V_2}{T_2}",
+        "type": "equation"
+      },
+      {
+        "key": "Transformação Isotérmica",
+        "value": "V_1P_1 = V_2P_2",
+        "type": "equation"
+      },
+      {
+        "key": "Pressão Parcial",
+        "value": "P_XV = n_XRT",
+        "type": "equation"
+      }
+    ]
   }
 ]

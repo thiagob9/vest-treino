@@ -65,7 +65,7 @@
         "value": "Diferentes atómos com o mesmo número de nêutrons",
         "type": "text"
       },
-       {
+      {
         "key": "Definição de Isótopo",
         "value": "Mesmo atómo com número diferente de nêutrons",
         "type": "text" 
@@ -83,6 +83,50 @@
       {
         "key": "Pressão Parcial",
         "value": "P_XV = n_XRT",
+        "type": "equation"
+      },
+      {
+        "key": "Mistura Eutética",
+        "value": "Ponto de fusão definido",
+        "type": "text" 
+      },
+      {
+        "key": "Mistura Azeotrópica",
+        "value": "Ponto de ebulição definido",
+        "type": "text" 
+      },
+      {
+        "key": "Granito é",
+        "caption": "Homogêneo ou Heterogêneo",
+        "value": "Heterogêneo",
+        "type": "text" 
+      },
+      {
+        "key": "Ouro 18k é",
+        "caption": "Homogêneo ou Heterogêneo",
+        "value": "Homogêneo",
+        "type": "text" 
+      },
+      {
+        "key": "Sangue é",
+        "caption": "Homogêneo ou Heterogêneo",
+        "value": "Heterogêneo",
+        "type": "text" 
+      },
+      {
+        "key": "Leite é",
+        "caption": "Homogêneo ou Heterogêneo",
+        "value": "Heterogêneo",
+        "type": "text" 
+      },
+      {
+        "key": "Relação da Fração Molar",
+        "value": "X_i = \\frac{N_i}{N_t} = \\frac{P_i}{P_t} = \\frac{V_i}{V_t}",
+        "type": "equation"
+      },
+      {
+        "key":"CNTP Valores",
+        "value": "P = 1 atm; V = 22,4L;n = 1 mol; T = 273K",
         "type": "equation"
       }
     ]

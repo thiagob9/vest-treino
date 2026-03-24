@@ -26,7 +26,7 @@
     "name": "Biologia",
     "topics": [
       {"key": "Protista",
-       "value": "Eucariontes, Unicelulares, Heterótrofos, sem parede celular e vida livre ou parasitas",
+       "value": "Eucariontes, Unicelulares ou Pluricelulares, Heterótrofos, sem parede celular e vida livre ou parasitas",
        "type": "text", 
        "caption": "Características"
       },
@@ -49,6 +49,26 @@
        "value": "Locomoção ausente, logo são todos parasitas.\n Ex: Plasmodium spp.",
        "type": "text", 
        "caption": "Características e Exemplo"
+      },
+      {"key": "Monera",
+       "value": "Procariontes, Unicelulares, heterótrofos e autotróficos, com parede celular (com e sem peptidoglicano)",
+       "type": "text", 
+       "caption": "Características"
+      },
+      {"key": "Fungi",
+       "value": "Eucariontes, Unicelulares ou Pluricelulares, heterótrofos, com parede celular (quitina)",
+       "type": "text", 
+       "caption": "Características"
+      },
+      {"key": "Plantae",
+       "value": "Eucariontes, Plucelulares, autotrófico, com parede celular (celulose)",
+       "type": "text", 
+       "caption": "Características"
+      },
+      {"key": "Animalia",
+       "value": "Eucariontes, pluricelulares, heterótrofos, sem parede celular",
+       "type": "text", 
+       "caption": "Características"
       }
     ]
   },

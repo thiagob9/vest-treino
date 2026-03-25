@@ -41,7 +41,7 @@
        "caption": "Características e Exemplo"
       },
       {"key": "Ciliosphora",
-       "value": "Movimentam-se por meio de cilíos.\n Ex: Corrigir",
+       "value": "Movimentam-se por meio de cilíos.\n Ex: paramécio",
        "type": "text", 
        "caption": "Características e Exemplo"
       },
@@ -69,6 +69,14 @@
        "value": "Eucariontes, pluricelulares, heterótrofos, sem parede celular",
        "type": "text", 
        "caption": "Características"
+      },
+      {"key": "Estruturas Homólogas",
+       "value": "Possuem mesma origem  embrionária, porém com funções diferentes, caracterizando uma divergência evolutiva",
+       "type": "text"
+      },
+      {"key": "Estruturas Análogas",
+       "value": "Possuem origem embrionária diferente, porém com funções similares, caracterizando uma convergência evolutiva",
+       "type": "text"
       }
     ]
   },

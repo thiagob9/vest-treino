@@ -77,7 +77,37 @@
       {"key": "Estruturas Análogas",
        "value": "Possuem origem embrionária diferente, porém com funções similares, caracterizando uma convergência evolutiva",
        "type": "text"
+      },
+      {"key": "Amebíase",
+       "value": "Causada pela ameba. É monoxênico, afetando apenas humanos na parte do intestino grosso, causando diarréias e cólicas abdominais. Sua transmissão ocorre por meio de cistos liberados nas fezes do infectado, que pode contaminar água, alimentos etc. Sua profilaxia é o tratamento das pessoas infectadas e do esgoto e água",
+       "type": "text"
+      },
+      {"key": "Giardíase",
+       "value": "Causada pela Giardia lamblia. É monoxênico, afetando apenas humanos na parte do intestino grosso, causando diarréias e cólicas abdominais. Sua transmissão ocorre por meio de cistos liberados nas fezes do infectado, que pode contaminar água, alimentos etc. Sua profilaxia é o tratamento das pessoas infectadas e do esgoto e água",
+       "type": "text"
+      },
+      {"key": "Toxoplasmose",
+       "value": "Causada pelo Toxoplasma gondii. É heteroxênico, afetando humanos(não-definitivos, de forma assintomática ou através de febre, manchas e dores no corpo) e os felinos (definitivos). Sua transmissão pode ocorrer por meio do contato com as fezes do gato, consumo de carne crua e da mãe para o feto.",
+       "type": "text"
+      },
+      {"key": "Tricomoníase",
+       "value": "Causada pelo Trichomonas. É transmitida por meio de relações sexuais, afetando a uretra e a vagina.",
+       "type": "text"
+      },
+      {"key": "Leishmaniose",
+       "value": "Causada pela Leishmania. É transmitida por meio do mosquito-palha fêmea, ocasinando ou em lesões na pele (cutânea) ou nos orgãos internos (visceral). Sua reprodução ocorre nos macrófagos",
+       "type": "text"
+      },
+      {"key": "Doença de Chagas",
+       "value": "Causada pelo Tripanosoma cruzi. É transmitida por meio da entrada das fezes do barbeiro (vetor) na corrente sanguínea, podendo originar sintomas apenas futuramente, que variam entre cardiomegalia, insuficiência e arritmia. Sua profilaxia é o combate ao inseto, substituição das casas de pau a pique e preservação ambiental.",
+       "type": "text"
+      },
+      {"key": "Malária",
+       "value": "Causada pelo Plasmodium spp. É transmitida por meio da picada do mosquito-prego fêmea. Sintomas são febres que vem de forma terçã ou quartã. Sua profilaxia é o combate ao inseto.",
+       "type": "text"
       }
+
+
     ]
   },
   {

@@ -105,9 +105,35 @@
       {"key": "Malária",
        "value": "Causada pelo Plasmodium spp. É transmitida por meio da picada do mosquito-prego fêmea. Sintomas são febres que vem de forma terçã ou quartã. Sua profilaxia é o combate ao inseto.",
        "type": "text"
+      },
+      {"key": "Sais que contribuem para o impulso nervoso",
+       "value":"Potássio, Sódio e Cálcio",
+       "type": "text"
+      },
+      {"key": "Especiação Alopátrica",
+       "value": "Ocorre por meio de uma barreira geográfica",
+       "type": "text"
+      },
+      {"key": "Especiação Simpátrica",
+       "value": "Ocorre por meio de seleções disruptivas",
+       "type": "text"
+      },
+      {"key": "Bases púricas",
+       "value": "Adenina e Guanina",
+       "type": "text"
+      },
+      {"key": "Bases pirimídicas",
+       "value": "Timina (Uracila no RNA) e Citosina",
+       "type": "text"
+      },
+      {"key": "Relações das Bases Nitrogendas",
+       "value": "Adenina = Timina (Uracila)(2 ligações)\n Citosina = Guanina (3 ligações)",
+       "type": "equation"
+      },
+      {"key": "Ciclo do Nitrogênio",
+       "value": "Fixação -> Amonificação (NH3) -> Nitrosação(NO2) -> Nitrifacação(NO3) -> Desnitrificação (N2)",
+       "type": "text"
       }
-
-
     ]
   },
   {
@@ -186,6 +212,26 @@
         "key":"CNTP Valores",
         "value": "P = 1 atm; V = 22,4L;n = 1 mol; T = 273K",
         "type": "equation"
+      }
+    ]
+  },
+  {
+    "name": "Geografia",
+    "topics": [
+      {
+        "key": "Rochas Magmáticas",
+        "value": "Formadas pela solidificação do magma. Possuem maior resistência que as demais rochas. São separadas entre intrusivas e extrusivas.",
+        "type": "text"
+      },
+      {
+        "key": "Rochas Sedimentares",
+        "value": "Formadas por sedimentos trazidos pelos fatores exógenos, geralmente em áreas mais baixas. São mais fraǵeis e possuem porosidade",
+        "type": "text"
+      },
+      {
+        "key": "Rochas Metamórficas",
+        "value": "Formadas por meio do aumento de pressão e temperatura, devido a processos endógenos, em rochas pre-existentes. Possuem xistosidade",
+        "type": "text"
       }
     ]
   }

@@ -232,7 +232,33 @@
         "key": "Rochas Metamórficas",
         "value": "Formadas por meio do aumento de pressão e temperatura, devido a processos endógenos, em rochas pre-existentes. Possuem xistosidade",
         "type": "text"
+      },
+      {
+        "key": "Montanhas",
+        "value": "Formas com altura a partir de 300m em relação à base. Apresenta picos, vertentes ingremes e erosão dominante",
+        "type": "text"
+      },
+      {
+        "key": "Planaltos",
+        "value": "Superfícies elevadas com formas variadas com dominância da erosão",
+        "type": "text"
+      },
+      {
+        "key": "Depressões",
+        "value": "Formas com acentuado rebaixamento por erosão e menor altitude que as áreas vizinhas",
+        "type": "text"
+      },
+      {
+        "key": "Tabuleiros",
+        "value": "Formas com topo plano, borda ingríme, baixa altitude e estrutura sedimentar",
+        "type": "text"
+      },
+      {
+        "key": "Planicies",
+        "value": "Superfície plana com predomínio da sedimentação",
+        "type": "text"
       }
+
     ]
   }
 ]

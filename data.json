@@ -133,6 +133,36 @@
       {"key": "Ciclo do Nitrogênio",
        "value": "Fixação -> Amonificação (NH3) -> Nitrosação(NO2) -> Nitrifacação(NO3) -> Desnitrificação (N2)",
        "type": "text"
+      },{"key": "Colônia",
+       "value": "Intraespecifica (+/+), com individuos agregados fisicamente",
+       "type": "text"
+      },{"key": "Sociedade",
+       "value": "Intraespecifica (+/+)",
+       "type": "text"
+      },{"key": "Canibalismo",
+       "value": "Intraespecifica (+/-)",
+       "type": "text"
+      },{"key": "Competição",
+       "value": "Intraespecifica e interespecifica (+/-)",
+       "type": "text"
+      },{"key": "Mutualismo",
+       "value": "Interespecifica (+/+), podendo ser facultativo (protocooperação) ou obrigatório",
+       "type": "text"
+      },{"key": "Comensalismo",
+       "value": "Interespecifica (+/0)",
+       "type": "text"
+      },{"key": "Predação",
+       "value": "Interespecifica (+/-)",
+       "type": "text"
+      },{"key": "Herbivoria",
+       "value": "Interespecifica (+/-)",
+       "type": "text"
+      },{"key": "Parasitismo",
+       "value": "Interespecifica (+/-)",
+       "type": "text"
+      },{"key": "Amensalismo",
+       "value": "Interespecifica (0/-)",
+       "type": "text"
       }
     ]
   },

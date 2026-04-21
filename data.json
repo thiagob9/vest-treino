@@ -19,6 +19,22 @@
         "key": "Número de Diagonais de um Poligono",
         "value": "d = \\frac{n(n-3)}{2}",
         "type": "equation"
+      },{
+        "key": "Definição de função par",
+        "value": "f(x) = f(-x)",
+        "type": "equation"
+      },{
+        "key": "Definição de função impar",
+        "value": "f(-x) = -f(x)",
+        "type": "equation"
+      },{
+        "key": "Definição de função injetora",
+        "value": "f(x) != f(y), para todo x e y",
+        "type": "equation"
+      },{
+        "key": "Definição de função sobrejetora",
+        "value": "O contradominío é exatamente igual ao conjunto imagem",
+        "type": "text"
       }
     ]
   },
@@ -133,35 +149,61 @@
       {"key": "Ciclo do Nitrogênio",
        "value": "Fixação -> Amonificação (NH3) -> Nitrosação(NO2) -> Nitrifacação(NO3) -> Desnitrificação (N2)",
        "type": "text"
-      },{"key": "Colônia",
+      },
+      {"key": "Colônia",
        "value": "Intraespecifica (+/+), com individuos agregados fisicamente",
        "type": "text"
-      },{"key": "Sociedade",
+      },
+      {"key": "Sociedade",
        "value": "Intraespecifica (+/+)",
        "type": "text"
-      },{"key": "Canibalismo",
+      },
+      {"key": "Canibalismo",
        "value": "Intraespecifica (+/-)",
        "type": "text"
-      },{"key": "Competição",
+      },
+      {"key": "Competição",
        "value": "Intraespecifica e interespecifica (+/-)",
        "type": "text"
-      },{"key": "Mutualismo",
+      },
+      {"key": "Mutualismo",
        "value": "Interespecifica (+/+), podendo ser facultativo (protocooperação) ou obrigatório",
        "type": "text"
-      },{"key": "Comensalismo",
+      },
+      {"key": "Comensalismo",
        "value": "Interespecifica (+/0)",
        "type": "text"
-      },{"key": "Predação",
+      },
+      {"key": "Predação",
        "value": "Interespecifica (+/-)",
        "type": "text"
-      },{"key": "Herbivoria",
+      },
+      {"key": "Herbivoria",
        "value": "Interespecifica (+/-)",
        "type": "text"
-      },{"key": "Parasitismo",
+      },
+      {"key": "Parasitismo",
        "value": "Interespecifica (+/-)",
        "type": "text"
-      },{"key": "Amensalismo",
+      },
+      {"key": "Amensalismo",
        "value": "Interespecifica (0/-)",
+       "type": "text"
+      },
+      {"key": "Filo Porifera",
+       "value": "Simetria radial, reprodução sexuada e assexuada e ausência de folhetos embrionários. Possuem coanócitos (filtração)",
+       "type": "text"
+      },
+      {"key": "Filo Cnidaria",
+       "value": "Diblástico (endo e ectoderme), Simetria radial, reprodução sexuada e assexuada; Sistema nervoso difuso e alternância entre pólipo e medusa. Possuem cnidócitos (toxinas)",
+       "type": "text"
+      },
+      {"key": "Filo Platelminto",
+       "value": "Triblástico, simetria bilateral, reprodução sexuada e assexuada; acelomados; cordões longitudinais",
+       "type": "text"
+      },      
+      {"key": "Filo Nemateominto",
+       "value": "Triblástico, simetria bilateral, reprodução sexuada; pseudocelomados; primeiro a possuir sistema digestório completo",
        "type": "text"
       }
     ]
@@ -242,6 +284,24 @@
         "key":"CNTP Valores",
         "value": "P = 1 atm; V = 22,4L;n = 1 mol; T = 273K",
         "type": "equation"
+      },{
+        "key":"Maior Raio atomico",
+        "value":"1. Maior número de camadas; 2. Menor número atômico; 3. Menor quantidade de eletrons",
+        "type":"text"
+      },{
+        "key":"Eletronegatividade e Potencial de Ionização",
+        "value":"As duas são inversas ao raio atomico",
+        "type":"text"
+      },
+      {
+        "key":"Energia de reação por meio da padrão de formação",
+        "value": "\\sum prod - \\sum reag = \\Delta h",
+        "type":"equation"
+      },
+      {
+        "key":"Energia de reação por meio da padrão de ligação",
+        "value": "\\sum reag - \\sum prod = \\Delta h",
+        "type":"equation"
       }
     ]
   },

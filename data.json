@@ -9,6 +9,10 @@
       {"key": "Força elétrostática", 
        "value": "F = \\frac{kqQ}{d^2}",
        "type": "equation"
+      },
+      {"key": "Equilíbrio eletroestático", 
+       "value": "V_a = V_b",
+       "type": "equation"
       }
     ]
   },
@@ -35,6 +39,18 @@
         "key": "Definição de função sobrejetora",
         "value": "O contradominío é exatamente igual ao conjunto imagem",
         "type": "text"
+      },{
+        "key":"Mediana",
+        "value":"Segmento de reta que une um vértice ao ponto médio do lado oposto, dividindo-o em duas partes iguais, formando o baricentro(2:1)",
+        "type":"text"
+      },{
+        "key":"Mediatriz",
+        "value":"Reta perpendicular ao segmento de reta que passa pelo ponto médio, formando o circuncentro",
+        "type":"text"
+      },{
+        "key":"Bissetriz",
+        "value":"Reta que divide o angulo em duas metades iguais, formando o incentro",
+        "type":"text"
       }
     ]
   },
@@ -204,6 +220,26 @@
       },      
       {"key": "Filo Nemateominto",
        "value": "Triblástico, simetria bilateral, reprodução sexuada; pseudocelomados; primeiro a possuir sistema digestório completo",
+       "type": "text"
+      },      
+      {"key": "Esquitossomose (barriga da água)",
+       "value": "Transmitida pelas larvas cercálias liberados pelos caramujos de água doce, afetando o fígado",
+       "type": "text"
+      },      
+      {"key": "Teníase",
+       "value": "Transmitida por meio da ingestão de carne de porco com cisticercos, afetando o intestino delgado. A tênia realiza autofecundação",
+       "type": "text"
+      },      
+      {"key": "Cisticercose",
+       "value": "Transmitida por meio da ingestão dos cisticercos da tenia, podendo afetar musculos e orgãos",
+       "type": "text"
+      },      
+      {"key": "Ascaridíase",
+       "value": "Transmitida pela lombriga. Vão até o intestino, depois realizam mudas nos pulmões e retornam ao intestino. Sintomas são diarréias e nauseas",
+       "type": "text"
+      },      
+      {"key": "Amarelão (Ancilostomose)",
+       "value": "Transmitida por ovos que eclodem no chão, causando anemia e hemorragia",
        "type": "text"
       }
     ]

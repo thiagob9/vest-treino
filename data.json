@@ -241,6 +241,14 @@
       {"key": "Amarelão (Ancilostomose)",
        "value": "Transmitida por ovos que eclodem no chão, causando anemia e hemorragia",
        "type": "text"
+      },      
+      {"key": "Filo Molusco",
+       "value": "Triblástico, simetria bilateral, reprodução sexuada; celomados; terrestres e aquaticos; Classes gastropoda, bivalva e cephalopoda",
+       "type": "text"
+      },      
+      {"key": "Filo Nemateominto",
+       "value": "Triblástico, simetria bilateral, reprodução sexuada; celomados; segmentação (metameria); sistema circulatório e respiração cutanea",
+       "type": "text"
       }
     ]
   },

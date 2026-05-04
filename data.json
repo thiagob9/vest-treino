@@ -246,9 +246,29 @@
        "value": "Triblástico, simetria bilateral, reprodução sexuada; celomados; terrestres e aquaticos; Classes gastropoda, bivalva e cephalopoda",
        "type": "text"
       },      
-      {"key": "Filo Nemateominto",
+      {"key": "Filo Annelida",
        "value": "Triblástico, simetria bilateral, reprodução sexuada; celomados; segmentação (metameria); sistema circulatório e respiração cutanea",
        "type": "text"
+      },
+      {
+        "key":"Retículo Endoplasmático",
+        "value":"Rugoso: síntese de proteínas; Liso: síntese de lipídios e degradação de toxinas",
+        "type":"text"
+      },
+      {
+        "key":"Lisossomo",
+        "value":"Digestão celular; Autofagia, poctose e heterofagia",
+        "type":"text"
+      },
+      {
+        "key":"Peroxissomo",
+        "value":"Degrada toxinas. H202 ->H20 + 02",
+        "type":"text"
+      },
+      {
+        "key":"Complexo de Golgi",
+        "value":"Modificam, empacotam e secretam proteínas (geralmente com lipídios); Possue face cis e trans, com várias cisternas",
+        "type":"text"
       }
     ]
   },
@@ -393,6 +413,62 @@
         "type": "text"
       }
 
+    ]
+  },{
+    "name": "Português",
+    "topics": [
+      {"key": "Silepse", 
+       "value": "Concordância com a ideia, e não gramatical",
+       "type": "text"
+      },
+      {"key": " Hipérbato", 
+       "value": "Inversão da ordem da frase",
+       "type": "text"
+      },
+      {"key": "Anacoluto", 
+       "value": "Ruptura sintática",
+       "type": "text"
+      },
+      {"key": "Elipse", 
+       "value": "Palavra está na frase, mas não é escrita/falada",
+       "type": "text"
+      },
+      {"key": "Zeugma", 
+       "value": "Omissão de palavra já escrita no texto",
+       "type": "text"
+      },
+      {"key": "Polissídeto", 
+       "value": "Repetição de conjunção",
+       "type": "text"
+      },
+      {"key": "Assíndeto", 
+       "value": "Ausência de conjunção",
+       "type": "text"
+      },
+      {"key": "Anáfora", 
+       "value": "Repetição da expressão no inicio",
+       "type": "text"
+      },
+      {"key": "Epístrofe", 
+       "value": "Repetição da expressão no final",
+       "type": "text"
+      },
+      {"key": "Quiasmo", 
+       "value": "Inversão cruzada",
+       "type": "text"
+      },
+      {"key": "Assonância", 
+       "value": "Repetição de sons vocálicos",
+       "type": "text"
+      },
+      {"key": "Aliteração", 
+       "value": "Repetição de sons consoantes",
+       "type": "text"
+      },
+      {"key": "Paronomásia", 
+       "value": "Trocadilho",
+       "type": "text"
+      }
     ]
   }
 ]

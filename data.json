@@ -269,6 +269,30 @@
         "key":"Complexo de Golgi",
         "value":"Modificam, empacotam e secretam proteínas (geralmente com lipídios); Possue face cis e trans, com várias cisternas",
         "type":"text"
+      },{
+        "key":"Filo Arthropoda",
+        "value":"Triblasticos, simetrial bilateral, celomados, metameria(segmentação), exoesqueleto quitinoso, realização de muda, sistema circulatório aberto",
+        "type":"text"
+      },{
+        "key":"Classe insecta",
+        "value":"1 par de antenas, olhos compostos, peças bucais variadas, 3 pares de pernas, 2 pares de asas e espiráculos(O2 e CO2) com respiração traqueal e  excreção de ácido úrico",
+        "type":"text"
+      },{
+        "key":"Desenvolvimento do insetos",
+        "value":"Direto (ametábolo), indireto incompleto (hemimetábolo(ovo, ninfa e adulto)) e completo(holometábolo(ovo,larva,pupa e adulto))",
+        "type":"text"
+      },{
+        "key":"Classe crustacea",
+        "value":"2 pares de antenas, olhos compostos, peças bucais, 5 pares de pernas, respiração branqueal, excreção de amônia e desenvolvimento indireto",
+        "type":"text"
+      },{
+        "key":"Classe arachnida (quelicerados)",
+        "value":"Olhos compostos, 4 pares de pernas, digestão extracorporea, pedipalpos (reprodução), queliceras(veneno), respiração filotraqueal, excreção de ácido úrico e desenvolvimento direto",
+        "type":"text"
+      },{
+        "key":"Classe miriápodes",
+        "value":"Diplópodes: 2 pares de pernas por segmento(piolho-de-cobra); Quilópodes: 1 par de pernas por segmento(lacraias)",
+        "type":"text"
       }
     ]
   },
@@ -366,6 +390,31 @@
         "key":"Energia de reação por meio da padrão de ligação",
         "value": "\\sum reag - \\sum prod = \\Delta h",
         "type":"equation"
+      },
+      {
+        "key":"Relação da velocidade dos elementos de uma reação",
+        "value": "\\frac{V_a}{N_a} = \\frac{V_b}{N_b}",
+        "type":"equation"
+      },
+      {
+        "key":"Hidrácidos",
+        "value": "Sem oxigênio; ácido -ídrico",
+        "type":"text"
+      },
+      {
+        "key":"Oxiácidos",
+        "value": "Com oxigênio; ácido -ico (padrão); per -ico(O +1); -oso (0 -1); hipo -oso (O -2)",
+        "type":"text"
+      },
+      {
+        "key":"Fila do Pão",
+        "value": "N C B Cl S P Si (H- 1,2,3,1,2,3,4) (O- 3,3,3,3,4,4,4)",
+        "type":"text"
+      },
+      {
+        "key":"Nomenclatura do anions",
+        "value": "Mosquito teimoso; Te mato te pico; te meto no vidrico",
+        "type":"text"
       }
     ]
   },

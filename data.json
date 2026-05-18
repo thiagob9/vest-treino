@@ -269,30 +269,64 @@
         "key":"Complexo de Golgi",
         "value":"Modificam, empacotam e secretam proteínas (geralmente com lipídios); Possue face cis e trans, com várias cisternas",
         "type":"text"
-      },{
+      },
+      {
         "key":"Filo Arthropoda",
         "value":"Triblasticos, simetrial bilateral, celomados, metameria(segmentação), exoesqueleto quitinoso, realização de muda, sistema circulatório aberto",
         "type":"text"
-      },{
+      },
+      {
         "key":"Classe insecta",
         "value":"1 par de antenas, olhos compostos, peças bucais variadas, 3 pares de pernas, 2 pares de asas e espiráculos(O2 e CO2) com respiração traqueal e  excreção de ácido úrico",
         "type":"text"
-      },{
+      },
+      {
         "key":"Desenvolvimento do insetos",
         "value":"Direto (ametábolo), indireto incompleto (hemimetábolo(ovo, ninfa e adulto)) e completo(holometábolo(ovo,larva,pupa e adulto))",
         "type":"text"
-      },{
+      },
+      {
         "key":"Classe crustacea",
         "value":"2 pares de antenas, olhos compostos, peças bucais, 5 pares de pernas, respiração branqueal, excreção de amônia e desenvolvimento indireto",
         "type":"text"
-      },{
+      },
+      {
         "key":"Classe arachnida (quelicerados)",
         "value":"Olhos compostos, 4 pares de pernas, digestão extracorporea, pedipalpos (reprodução), queliceras(veneno), respiração filotraqueal, excreção de ácido úrico e desenvolvimento direto",
         "type":"text"
-      },{
+      },
+      {
         "key":"Classe miriápodes",
         "value":"Diplópodes: 2 pares de pernas por segmento(piolho-de-cobra); Quilópodes: 1 par de pernas por segmento(lacraias)",
         "type":"text"
+      },
+      {"key": "Difusão simples", 
+       "value": "Transporte passivo do soluto, a favor do gradiente de concentração (Hiper->hipo)",
+       "type": "text"
+      },
+      {"key": "Difusão facilitada", 
+       "value": "Transporte passivo de ións, com a ajuda de uma proteína(canal); Mais rápida que a simples",
+       "type": "text"
+      },
+      {"key": "Osmose", 
+       "value": "Transporte passivo do solvente (Hipo->Hiper), por meio da membrana semipermeável",
+       "type": "text"
+      },
+      {"key": "Bomba (H+, NA+/K+)", 
+       "value": "Contra o gradiente de concentração, utilizando uma proteina conhecida como bomba. (Entra 2 K+ e sai 3 Na+ por ATP)",
+       "type": "text"
+      },
+      {"key": "Fagocitose", 
+       "value": "Transporte em massa por meio da emissão de pseudopodes; macrófagos, neutrófilos e amebas",
+       "type": "text"
+      },
+      {"key": "Pinocitose", 
+       "value": "Transporte de massa que absore liquidos e lipidios por invaginação",
+       "type": "text"
+      },
+      {"key": "Exocitose ou clasmocitose", 
+       "value": "Liberação de conteudo vesicular por meio da secreção de residuos",
+       "type": "text"
       }
     ]
   },
@@ -415,6 +449,42 @@
         "key":"Nomenclatura do anions",
         "value": "Mosquito teimoso; Te mato te pico; te meto no vidrico",
         "type":"text"
+      },
+      {"key": "Força dos oxiácidos", 
+       "value": "Fortes: HCl, HBr e HI; Moderado: HF",
+       "type": "text"
+      },
+      {"key": "Oxiácidos", 
+       "value": "m = [H] - [O]; 2-> forte; 1-> moderado; 0->fraco",
+       "type": "text"
+      },
+      {"key": "Grupo 1", 
+       "value": "Metais Alcalinos; 1 eletron na camada valência; Na e K",
+       "type": "text"
+      },
+      {"key": "Grupo 2", 
+       "value": "Metais Alcalinos-terrosos; 2 elétrons na camada valência; Mg e Ca",
+       "type": "text"
+      },
+      {"key": "Grupo 13", 
+       "value": "Família do Boro; 3 elétrons na camada valência; B e Al",
+       "type": "text"
+      },
+      {"key": "Grupo 14", 
+       "value": "Família do Carbono; 4 elétrons na camada valência; C",
+       "type": "text"
+      },
+      {"key": "Grupo 15", 
+       "value": "Família do Nitrogênio; 5 elétrons na camada valência; N e P",
+       "type": "text"
+      },
+      {"key": "Grupo 16", 
+       "value": "Família dos Calcogênios; 6 elétrons na camada valência; O e S",
+       "type": "text"
+      },
+      {"key": "Grupo 17", 
+       "value": "Família dos Halogênios; 7 elétrons na camada valência; F, Cl, Br e I",
+       "type": "text"
       }
     ]
   },
@@ -516,6 +586,22 @@
       },
       {"key": "Paronomásia", 
        "value": "Trocadilho",
+       "type": "text"
+      },
+      {"key": "Narração", 
+       "value": "Inicio, meio e fim; sequência de eventos; verbos no passado, com a presença de advérbios de tempo",
+       "type": "text"
+      },
+      {"key": "Descrição", 
+       "value": "Caracterização de algo; eventos cíclicos e repetido; adjetivos",
+       "type": "text"
+      },
+      {"key": "Dissertação", 
+       "value": "Expositiva: informar, impessoal e objetivo; Argumentativa: Persuação, defesa de teses e menos impessoal",
+       "type": "text"
+      },
+      {"key": "Injunção", 
+       "value": "Tem como função induzir o leitor a tomar uma ação; verbos no imperativo",
        "type": "text"
       }
     ]

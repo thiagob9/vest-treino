@@ -454,7 +454,7 @@
        "value": "Fortes: HCl, HBr e HI; Moderado: HF",
        "type": "text"
       },
-      {"key": "Oxiácidos", 
+      {"key": "Formula da força de Oxiácidos", 
        "value": "m = [H] - [O]; 2-> forte; 1-> moderado; 0->fraco",
        "type": "text"
       },
@@ -485,6 +485,46 @@
       {"key": "Grupo 17", 
        "value": "Família dos Halogênios; 7 elétrons na camada valência; F, Cl, Br e I",
        "type": "text"
+      },
+      {
+        "key":"Levigação",
+        "value":"Sólido menos denso é arrastado por um corrente de água contínua",
+        "type":"text"
+      },
+      {
+        "key":"Flotação",
+        "value":"Bolhas de ar arrastam partículas em suspensão para a superfície, formando uma espuma",
+        "type":"text"
+      },
+      {
+        "key":"Dissolução Fracionada",
+        "value":"o Solvente dissolve apenas um dos componentes",
+        "type":"text"
+      },
+      {
+        "key":"Decantação",
+        "value":"Uso da densidade para separar liquidos e solidos",
+        "type":"text"
+      },
+      {
+        "key":"Filtração",
+        "value":"Decantação com retenção de partículas sólidas",
+        "type":"text"
+      },
+      {
+        "key":"Destilação simples",
+        "value":"Separação de um sólido dissolvido no liquido, AMBOS SÃO RECUPERADOS",
+        "type":"text"
+      },
+      {
+        "key":"Destilação Fracionada",
+        "value":"Separação de líquidos, em que o de menor ponto de ebulição evapora e é recuperado",
+        "type":"text"
+      },
+      {
+        "key":"Levigação",
+        "value":"Sólido menos denso é arrastado por um corrente de água contínua",
+        "type":"text"
       }
     ]
   },
